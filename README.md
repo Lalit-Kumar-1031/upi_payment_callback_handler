@@ -54,6 +54,8 @@ Use this plugin when:
 ---
 
 
+
+
 ## 📦 Installation
 
 Add this to your `pubspec.yaml`:
@@ -63,6 +65,9 @@ dependencies:
   upi_payment_callback_handler: ^0.0.1 
 
   ```
+
+
+
 
 
 ## 🎥 Demo
@@ -182,6 +187,9 @@ Add these URL schemes to your app's ios/Runner/Info.plist:
     <string>bhim</string>
 </array>
 ```
+
+
+
 
 ```dart
 //IOS Platform Code 
@@ -388,8 +396,6 @@ class _IOSPaymentExampleScreenState extends State<IOSPaymentExampleScreen>
 }
 ```
 
-  ### If You Like the Work Follow Me On Linkedin
+ ## 💼 Connect with Me
 
-  ```html
-  <a href="https://www.linkedin.com/in/lalit-kumar-3271b638b/"> Follow Me on Linkedin</a>
-  ```
+👉 [Follow Me on LinkedIn](https://www.linkedin.com/in/lalit-kumar-3271b638b/)
