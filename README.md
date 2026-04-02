@@ -53,6 +53,16 @@ Use this plugin when:
 
 ---
 
+
+## 📦 Installation
+
+Add this to your `pubspec.yaml`:
+
+```yaml
+dependencies:
+  upi_payment_callback_handler: ^0.0.1 
+  
+
 ## 🎥 Demo
 
 ### 🤖 Plugin Demo
@@ -169,6 +179,7 @@ Add these URL schemes to your app's ios/Runner/Info.plist:
     <string>paytmmp</string>
     <string>bhim</string>
 </array>
+```
 
 ```dart
 //IOS Platform Code 
@@ -375,10 +386,8 @@ class _IOSPaymentExampleScreenState extends State<IOSPaymentExampleScreen>
 }
 ```
 
-## 📦 Installation
+  ### If You Like the Work Follow Me On Linkedin
 
-Add this to your `pubspec.yaml`:
-
-```yaml
-dependencies:
-  upi_payment_callback_handler: ^0.0.1 
+  ```
+  <a href="https://www.linkedin.com/in/lalit-kumar-3271b638b/"> Follow Me on Linkedin</a>
+  ```
