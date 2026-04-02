@@ -61,7 +61,9 @@ Add this to your `pubspec.yaml`:
 ```yaml
 dependencies:
   upi_payment_callback_handler: ^0.0.1 
-  
+
+  ```
+
 
 ## 🎥 Demo
 
@@ -388,6 +390,6 @@ class _IOSPaymentExampleScreenState extends State<IOSPaymentExampleScreen>
 
   ### If You Like the Work Follow Me On Linkedin
 
-  ```
+  ```html
   <a href="https://www.linkedin.com/in/lalit-kumar-3271b638b/"> Follow Me on Linkedin</a>
   ```
